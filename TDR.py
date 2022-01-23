@@ -1,5 +1,4 @@
 import pandas as pd
-import seaborn as sns
 from sklearn.neural_network import MLPClassifier, MLPRegressor
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.preprocessing import LabelEncoder, StandardScaler
